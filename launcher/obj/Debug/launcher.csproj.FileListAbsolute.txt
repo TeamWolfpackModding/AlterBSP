@@ -1,0 +1,15 @@
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\out\launcher\Debug\launcher.exe.config
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\out\launcher\Debug\launcher.exe
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\out\launcher\Debug\launcher.pdb
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher.csprojAssemblyReference.cache
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\MainWindow.g.cs
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\App.g.cs
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher_MarkupCompile.cache
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher_MarkupCompile.lref
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\MainWindow.baml
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher.g.resources
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher.Properties.Resources.resources
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher.csproj.GenerateResource.cache
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher.csproj.CoreCompileInputs.cache
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher.exe
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\launcher\obj\Debug\launcher.pdb

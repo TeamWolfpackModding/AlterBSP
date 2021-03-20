@@ -1,0 +1,5 @@
+﻿  xlive.cpp
+C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\xlivelessness\xlive\xlive.cpp(1305,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  LINK : C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\out\xlive\Debug\xlive.dll not found or not built by the last incremental link; performing full link
+     Creating library C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\out\xlive\Debug\xlive.lib and object C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\out\xlive\Debug\xlive.exp
+  xlivelessness.vcxproj -> C:\Users\runsv\Desktop\big_projects\BSP\xlive\alterbattlestations\out\xlive\Debug\xlive.dll
